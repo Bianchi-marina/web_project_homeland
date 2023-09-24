@@ -1,0 +1,20 @@
+.header {
+
+}
+
+.header__title {
+     color: white;
+     font-size: 96px;
+     font-family: Inter;
+     font-weight: 900;
+     line-height: 100px;
+     word-wrap: break-word
+}
+
+.header__subtitle {
+
+}
+
+.header__image {
+
+}

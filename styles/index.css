@@ -1,0 +1,9 @@
+@import url(../styles/normalize.css);
+@import url(../blocks/header.css);
+
+.page {
+    align-items: center;
+    margin: 0 auto;
+    font-family: Inter;
+    background-color: #2a2c2f;
+}
