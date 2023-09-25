@@ -1,6 +1,7 @@
 @import url(../styles/normalize.css);
 @import url(../blocks/header.css);
 @import url(../blocks/intro.css);
+@import url(../blocks/photo-grid.css);
 
 .page {
     align-items: center;
